@@ -149,7 +149,3 @@ Desde Kali se recibe petición GET desde la IP VPN `10.10.10.1`.
 * La VPN permite transportar tráfico de red (ICMP, HTTP, etc.) entre sistemas.
 * Este tipo de conexión es ideal para túneles seguros entre servidores o estaciones de administración.
 * La práctica demuestra un uso realista de VPN en entornos de ciberseguridad y redes ofensivas/controladas.
-
----
-
-¿Deseas que te entregue este documento en PDF, Markdown o LaTeX? ¿Quieres que incluya plantillas de portafolio o diagramas visuales (tipo draw\.io o ASCII)?
